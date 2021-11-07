@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/apfol/nofap_percentage_tracker/BuildConfig.java
+ com.apfol.nofap_percentage_tracker.BuildConfig
